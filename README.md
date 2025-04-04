@@ -24,6 +24,11 @@ A React-based shopping cart application that allows users to add products, manag
 - CSS (no external libraries)
 - JavaScript ES6+
 
+
+## Live Demo
+
+Check out the live demo of the app:  [Recipe Contest App on Vercel](https://shopping-cart-application-with-free-gift.vercel.app/)  
+
 ## Installation
 
 1. Clone the repository:
